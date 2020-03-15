@@ -1,1 +1,3 @@
-This TF file will spin up 2 Panorama HA in a same resource group and vnet
+This TF file willl spin up 2 Panorama HA in a same resource group and vnet
+Plesae modify variables.tf as necessary
+Prefix variable will add prefix in front of your resources
